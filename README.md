@@ -1,0 +1,1 @@
+This is Giordano's first git project!
